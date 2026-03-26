@@ -1,37 +1,37 @@
 Aula,Atividade,Auto-avaliação,Justificativa,Data/Hora completada ,Link para o registro da atividade no repositório
-A01.1P Modelos Mentais e Conhecimento Compartilhado,Modelos Mentais (1),,,,
-,Modelos Mentais (2),,,,
-A01.1T - Introdução à Modelagem de Domínio,Conceito de modelos,,,,
-,Exemplos de modelos gerais,,,,
-,Representando modelos computacionais,,,,
-,Por que modelar?,,,,
-,Conceitos básicos,,,,
-,Conceitos básicos,,,,
-A02.1T - Introdução ao Projeto Orientado pelo Domínio,Analogia,,,,
-,Exemplos práticos,,,,
-,Limitações,,,,
-,Domínio Central,,,,
-,Linguagem Ubíqua,,,,
-,Aplicando DDD (1),,,,
-,Aplicando DDD (2),,,,
-A04.1T - Contextos Delimitados,Diferencial Competitivo,,,,
-,Identificar e classificar Subdomínios (1),,,,
-,Identificar e classificar Subdomínios (2),,,,
-A05.1T - Design Estratégico e Mapeamento de Contextos,*,,,,
-A06.1T - Design Tático e Padrões de Modelos de Domínio,Implementando um Value Object,,,,
-,Mais sobre Objetos de Valor (1),,,,
-,Mais sobre Objetos de Valor (2),,,,
-,Implementando uma Entidade,,,,
-,Mais sobre Entidades,,,,
-,Implementando um Agregado,,,,
-,Mais sobre Agregados,,,,
-A06.2T - Design Tático e Padrões de Modelos de Domínio,Implementando um Serviço,,,,
-,Mais sobre serviços,,,,
-,Implementando um Evento,,,,
-,Mais sobre Evento,,,,
-,Implementando uma Fábrica,,,,
-,Mais sobre Fábricas,,,,
-,Implementando um Repositório,,,,
-,Mais sobre Repositório,,,,
-A07.2T - Arquitetura e Modelos de Domínio,Arquitetura (1),,,,
-,Arquitetura (2),,,,
+A01.1P Modelos Mentais e Conhecimento Compartilhado,Modelos Mentais (1),5,100% das atividades realizadas,16/03/2026 14:00,https://github.com/cborg2323/atividades-bonus/blob/main/Relat%C3%B3rios/INTRODU%C3%87%C3%83O%20%C3%80%20MODELAGEM%20DE%20DOM%C3%8DNIO%20-%20Atividades.pdf
+,Modelos Mentais (2),5,100% das atividades realizadas,16/03/2026 19:00,https://github.com/cborg2323/atividades-bonus/blob/main/Relat%C3%B3rios/INTRODU%C3%87%C3%83O%20%C3%80%20MODELAGEM%20DE%20DOM%C3%8DNIO%20-%20Atividades.pdf
+A01.1T - Introdução à Modelagem de Domínio,Conceito de modelos,5,100% das atividades realizadas,16/03/2026 20:00,https://github.com/cborg2323/atividades-bonus/blob/main/Relat%C3%B3rios/INTRODU%C3%87%C3%83O%20%C3%80%20MODELAGEM%20DE%20DOM%C3%8DNIO%20-%20Atividades.pdf
+,Exemplos de modelos gerais,5,100% das atividades realizadas,16/03/2026 22:00,https://github.com/cborg2323/atividades-bonus/blob/main/Relat%C3%B3rios/INTRODU%C3%87%C3%83O%20%C3%80%20MODELAGEM%20DE%20DOM%C3%8DNIO%20-%20Atividades.pdf
+,Representando modelos computacionais,5,100% das atividades realizadas,17/03/2026 13:00,https://github.com/cborg2323/atividades-bonus/blob/main/Relat%C3%B3rios/INTRODU%C3%87%C3%83O%20%C3%80%20MODELAGEM%20DE%20DOM%C3%8DNIO%20-%20Atividades.pdf
+,Por que modelar?,5,100% das atividades realizadas,17/03/2026 14:00,https://github.com/cborg2323/atividades-bonus/blob/main/Relat%C3%B3rios/INTRODU%C3%87%C3%83O%20%C3%80%20MODELAGEM%20DE%20DOM%C3%8DNIO%20-%20Atividades.pdf
+,Conceitos básicos,5,100% das atividades realizadas,17/03/2026 16:00,https://github.com/cborg2323/atividades-bonus/blob/main/Relat%C3%B3rios/INTRODU%C3%87%C3%83O%20%C3%80%20MODELAGEM%20DE%20DOM%C3%8DNIO%20-%20Atividades.pdf
+,Conceitos básicos,5,100% das atividades realizadas,17/03/2026 18:00,https://github.com/cborg2323/atividades-bonus/blob/main/Relat%C3%B3rios/INTRODU%C3%87%C3%83O%20%C3%80%20MODELAGEM%20DE%20DOM%C3%8DNIO%20-%20Atividades.pdf
+A02.1T - Introdução ao Projeto Orientado pelo Domínio,Analogia,5,100% das atividades realizadas,17/03/2026 21:00,https://github.com/cborg2323/atividades-bonus/blob/main/Relat%C3%B3rios/Introdu%C3%A7%C3%A3o%20ao%20Projeto%20Orientado%20pelo%20Dom%C3%ADnio%20-%20Atividades.pdf
+,Exemplos práticos,5,100% das atividades realizadas,18/03/2026 15:00,https://github.com/cborg2323/atividades-bonus/blob/main/Relat%C3%B3rios/Introdu%C3%A7%C3%A3o%20ao%20Projeto%20Orientado%20pelo%20Dom%C3%ADnio%20-%20Atividades.pdf
+,Limitações,5,100% das atividades realizadas,18/03/2026 17:00,https://github.com/cborg2323/atividades-bonus/blob/main/Relat%C3%B3rios/Introdu%C3%A7%C3%A3o%20ao%20Projeto%20Orientado%20pelo%20Dom%C3%ADnio%20-%20Atividades.pdf
+,Domínio Central,0,Não realizada,-,-
+,Linguagem Ubíqua,0,Não realizada,-,-
+,Aplicando DDD (1),0,Não realizada,-,-
+,Aplicando DDD (2),0,Não realizada,-,-
+A04.1T - Contextos Delimitados,Diferencial Competitivo,5,100% das atividades realizadas,19/03/2026 20:00,https://github.com/cborg2323/atividades-bonus/blob/main/Relat%C3%B3rios/Contextos%20Delimitados%20-%20Atividades.pdf
+,Identificar e classificar Subdomínios (1),5,100% das atividades realizadas,19/03/2026 21:00,https://github.com/cborg2323/atividades-bonus/blob/main/Relat%C3%B3rios/Contextos%20Delimitados%20-%20Atividades.pdf
+,Identificar e classificar Subdomínios (2),5,100% das atividades realizadas,20/03/2026 13:00,https://github.com/cborg2323/atividades-bonus/blob/main/Relat%C3%B3rios/Contextos%20Delimitados%20-%20Atividades.pdf
+A05.1T - Design Estratégico e Mapeamento de Contextos,*,0,Não realizada,-,-
+A06.1T - Design Tático e Padrões de Modelos de Domínio,Implementando um Value Object,5,100% das atividades realizadas,20/03/2026 16:00,https://github.com/cborg2323/atividades-bonus/tree/main/Implementa%C3%A7%C3%B5es-Design-T%C3%A1tico/OVs
+,Mais sobre Objetos de Valor (1),5,100% das atividades realizadas,20/03/2026 19:00,https://github.com/cborg2323/atividades-bonus/tree/main/Implementa%C3%A7%C3%B5es-Design-T%C3%A1tico/OVs
+,Mais sobre Objetos de Valor (2),5,100% das atividades realizadas,20/03/2026 22:00,https://github.com/cborg2323/atividades-bonus/tree/main/Implementa%C3%A7%C3%B5es-Design-T%C3%A1tico/OVs
+,Implementando uma Entidade,5,100% das atividades realizadas,21/03/2026 13:00,https://github.com/cborg2323/atividades-bonus/tree/main/Implementa%C3%A7%C3%B5es-Design-T%C3%A1tico/Entidades
+,Mais sobre Entidades,5,100% das atividades realizadas,21/03/2026 15:00,https://github.com/cborg2323/atividades-bonus/tree/main/Implementa%C3%A7%C3%B5es-Design-T%C3%A1tico/Entidades
+,Implementando um Agregado,5,100% das atividades realizadas,21/03/2026 18:00,https://github.com/cborg2323/atividades-bonus/tree/main/Implementa%C3%A7%C3%B5es-Design-T%C3%A1tico/Agregados
+,Mais sobre Agregados,5,100% das atividades realizadas,21/03/2026 21:00,https://github.com/cborg2323/atividades-bonus/tree/main/Implementa%C3%A7%C3%B5es-Design-T%C3%A1tico/Agregados
+A06.2T - Design Tático e Padrões de Modelos de Domínio,Implementando um Serviço,5,100% das atividades realizadas,22/03/2026 14:00,https://github.com/cborg2323/atividades-bonus/tree/main/Implementa%C3%A7%C3%B5es-Design-T%C3%A1tico/Servicos
+,Mais sobre serviços,5,100% das atividades realizadas,22/03/2026 16:00,https://github.com/cborg2323/atividades-bonus/tree/main/Implementa%C3%A7%C3%B5es-Design-T%C3%A1tico/Servicos
+,Implementando um Evento,5,100% das atividades realizadas,22/03/2026 19:00,https://github.com/cborg2323/atividades-bonus/tree/main/Implementa%C3%A7%C3%B5es-Design-T%C3%A1tico/Eventos
+,Mais sobre Evento,5,100% das atividades realizadas,22/03/2026 20:00,https://github.com/cborg2323/atividades-bonus/tree/main/Implementa%C3%A7%C3%B5es-Design-T%C3%A1tico/Eventos
+,Implementando uma Fábrica,5,100% das atividades realizadas,23/03/2026 13:00,https://github.com/cborg2323/atividades-bonus/tree/main/Implementa%C3%A7%C3%B5es-Design-T%C3%A1tico/Fabricas
+,Mais sobre Fábricas,5,100% das atividades realizadas,23/03/2026 17:00,https://github.com/cborg2323/atividades-bonus/tree/main/Implementa%C3%A7%C3%B5es-Design-T%C3%A1tico/Fabricas
+,Implementando um Repositório,5,100% das atividades realizadas,23/03/2026 19:00,https://github.com/cborg2323/atividades-bonus/tree/main/Implementa%C3%A7%C3%B5es-Design-T%C3%A1tico/Repositorios
+,Mais sobre Repositório,5,100% das atividades realizadas,24/03/2026 15:00,https://github.com/cborg2323/atividades-bonus/tree/main/Implementa%C3%A7%C3%B5es-Design-T%C3%A1tico/Repositorios
+A07.2T - Arquitetura e Modelos de Domínio,Arquitetura (1),5,100% das atividades realizadas,24/03/2026 18:00,https://github.com/cborg2323/atividades-bonus/blob/main/Relat%C3%B3rios/Arquitetura%20e%20Modelos%20de%20Dom%C3%ADnio%20-%20Atividades.pdf
+,Arquitetura (2),5,100% das atividades realizadas,24/03/2026 22:00,https://github.com/cborg2323/atividades-bonus/blob/main/Relat%C3%B3rios/Arquitetura%20e%20Modelos%20de%20Dom%C3%ADnio%20-%20Atividades.pdf
